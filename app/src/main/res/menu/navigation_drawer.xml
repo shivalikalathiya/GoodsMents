@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="General">
+        <menu>
+            <item android:id="@+id/navigation_home"
+                android:title="Home"
+                android:icon="@drawable/ic_baseline_home_24">
+
+            </item>
+            <item android:id="@+id/navigation_order"
+                android:title="Order"
+                android:icon="@drawable/order">
+
+            </item>
+            <item android:id="@+id/navigation_payment"
+                android:title="Payment"
+                android:icon="@drawable/wallet">
+
+            </item>
+        </menu>
+    </item>
+
+    <item android:title="Communicate">
+        <menu>
+            <item android:id="@+id/navigation_share"
+                android:title="Share"
+                android:icon="@drawable/share">
+
+            </item>
+            <item android:id="@+id/navigation_aboutus"
+                android:title="About Us"
+                android:icon="@drawable/aboutus">
+
+            </item>
+            <item android:id="@+id/navigation_rateus"
+                android:title="Rate Us"
+                android:icon="@drawable/star">
+
+            </item>
+
+
+
+        </menu>
+    </item>
+
+    <item android:title="Profile">
+        <menu>
+            <item android:id="@+id/navigation_logout"
+                android:title="LogOut"
+                android:icon="@drawable/logout">
+
+            </item>
+
+        </menu>
+    </item>
+</menu>

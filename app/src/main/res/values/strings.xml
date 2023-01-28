@@ -1,3 +1,44 @@
 <resources>
     <string name="app_name">GoodsMents</string>
+    //Headings
+    <string name="heading_0ne">Choose your Destination</string>
+    <string name="heading_two">Fast Delivery</string>
+    <string name="heading_Three">Quick &amp; Easy Payments</string>
+
+    //Descripition
+    <string name="desc_one">nfjvjdvjdbehvbhvhebheb</string>
+    <string name="desc_two">njdbchdbchbchdbhbvcjbvjdbvjdb</string>
+    <string name="desc_three">Grow your Business by Accepting card payments with The New Card Reader</string>
+    <string name="goodsment">GoodsMent</string>
+    <string name="create_your_account">Create your Account</string>
+    <string name="name">name</string>
+
+
+    <string name="facebook_app_id">689911759265461</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">56789</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="email">email</string>
+    <string name="contact_number">contact number</string>
+    <string name="city">city</string>
+    <string name="password">password</string>
+    <string name="sign_up">sign up</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="signin">signin</string>
+    <string name="login_to_your_account">Login to your Account</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sign_in">sign in</string>
+    <string name="or_sign_in_with">- Or sign in with -</string>
+    <string name="todo">TODO</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_order">Order</string>
+    <string name="menu_payment">Payment</string>
+    <string name="menu_profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+
 </resources>

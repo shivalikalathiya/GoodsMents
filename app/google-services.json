@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "827363372239",
+    "project_id": "goodsments",
+    "storage_bucket": "goodsments.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827363372239:android:011020bdb8a216aaa81bba",
+        "android_client_info": {
+          "package_name": "com.example.goodsments"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827363372239-iphps9j4kf46q45coqonlkhqgurg53il.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.goodsments",
+            "certificate_hash": "21cfa77d0573ab2002f8519656cbbb4dc1c6d719"
+          }
+        },
+        {
+          "client_id": "827363372239-h0pqvcb1hpanaf35lj9gl1qk0ub91deh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtMqoSh-PSQ4EWeyRMOoM1Q4uX8lxabd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827363372239-h0pqvcb1hpanaf35lj9gl1qk0ub91deh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
